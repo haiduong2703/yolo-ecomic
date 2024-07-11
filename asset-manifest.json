@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/yolo-ecomic/static/css/main.4d62fe21.css",
+    "main.js": "/yolo-ecomic/static/js/main.ac615539.js",
+    "static/js/787.44244c82.chunk.js": "/yolo-ecomic/static/js/787.44244c82.chunk.js",
+    "static/media/boxicons.svg": "/yolo-ecomic/static/media/boxicons.045b05bf2dc119267a90.svg",
+    "static/media/slide_3.png": "/yolo-ecomic/static/media/slide_3.6e2ad4f2a2f8759c6360.png",
+    "static/media/slide_2.png": "/yolo-ecomic/static/media/slide_2.a5d8646fd562e1727d9d.png",
+    "static/media/slide_1.png": "/yolo-ecomic/static/media/slide_1.05395af1bce89e270797.png",
+    "static/media/banner.png": "/yolo-ecomic/static/media/banner.3c5f3ab85194c653236e.png",
+    "static/media/boxicons.eot": "/yolo-ecomic/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/yolo-ecomic/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/yolo-ecomic/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/product-01(1).jpg": "/yolo-ecomic/static/media/product-01(1).7badc1d8b67d62a60b7b.jpg",
+    "static/media/boxicons.woff2": "/yolo-ecomic/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "static/media/thanhtoan.jpg": "/yolo-ecomic/static/media/thanhtoan.9ce83019310b4f5f38a3.jpg",
+    "static/media/searchicon.png": "/yolo-ecomic/static/media/searchicon.9313d9066efb955a1e28.png",
+    "static/media/Logo-2.png": "/yolo-ecomic/static/media/Logo-2.3f227664b3ce56e8fcde.png",
+    "index.html": "/yolo-ecomic/index.html",
+    "main.4d62fe21.css.map": "/yolo-ecomic/static/css/main.4d62fe21.css.map",
+    "main.ac615539.js.map": "/yolo-ecomic/static/js/main.ac615539.js.map",
+    "787.44244c82.chunk.js.map": "/yolo-ecomic/static/js/787.44244c82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d62fe21.css",
+    "static/js/main.ac615539.js"
+  ]
+}
