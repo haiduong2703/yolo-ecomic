@@ -56,7 +56,7 @@ const Layout = () => {
   // }, []);
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="yolo-ecomic">
       {checkUser ? (
         <Route
           render={(props) => (
